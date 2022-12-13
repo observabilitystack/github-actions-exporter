@@ -6,6 +6,7 @@ on:
       - master
       - main
       - feature/**
+      - multi-arch
   pull_request:
 
 jobs:
